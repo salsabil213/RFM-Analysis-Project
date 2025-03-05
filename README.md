@@ -31,7 +31,7 @@ We work with transactional data containing:
 - Create **personalized marketing campaigns** 🎯 to boost retention and revenue!
 
 ## 🛠️ Tech Stack
-- 🐍 **Python** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+- 🐍 **Python** (Pandas, NumPy, Matplotlib, Seaborn)
 - 📓 **Jupyter Notebook**
 
 ## 🏁 Getting Started
